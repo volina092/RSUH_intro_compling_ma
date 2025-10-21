@@ -7,4 +7,4 @@
 
 3-4 семинары (6 окт) — [Регулярные выражения 2](https://colab.research.google.com/drive/1ErRo21iMpnSQK2ZwGJZvw2hqqTu7Kzrv?usp=drive_link), [домашка](https://colab.research.google.com/drive/1SiudLEIw9iAOLItQIDLhjgRBlpm1Tbj4?usp=sharing)
 
-5-6 семинары (20 окт) — [Токенизация, N-граммы (семинар)](https://colab.research.google.com/drive/1UHBeVI6GlVS6ZPfZfe5dhunZpxZkoAMo), [домашка](https://colab.research.google.com/drive/1SiudLEIw9iAOLItQIDLhjgRBlpm1Tbj4) 
+5-6 семинары (20 окт) — [Токенизация, N-граммы (семинар)](https://colab.research.google.com/drive/1UHBeVI6GlVS6ZPfZfe5dhunZpxZkoAMo), [домашка](https://colab.research.google.com/drive/1QmxtZ1mEgw6LZcq-jF4Zvl3jnJefWTA7?usp=sharing) 
