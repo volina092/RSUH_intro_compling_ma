@@ -11,4 +11,4 @@
 
 6-7 семинар (28 окт) — [Регулярные выражения](https://colab.research.google.com/drive/1b8vsWY7Vao649KHYvDPmQLn2SjgSvv64?usp=drive_link), [Домашнее задание](https://colab.research.google.com/drive/1htgn694o84FZInV0k-6wXbt72WcDiqOb?usp=sharing) — дедлайн 18 ноября.
 
-8 семинар (11 ноя) — [Веб-скраппинг](https://colab.research.google.com/drive/1nddgKpsvB27-YULdkASjpTkv8Jf3DKv9?usp=drive_link)
+8 семинар (11 ноя) — [Веб-скраппинг](https://colab.research.google.com/drive/1nddgKpsvB27-YULdkASjpTkv8Jf3DKv9?usp=drive_link), [Домашнее задание](https://colab.research.google.com/drive/1kVEsD2fTT5K7-1xAxs9LS6C10hpegzP5?usp=sharing) — дедлайн 25 ноября.
